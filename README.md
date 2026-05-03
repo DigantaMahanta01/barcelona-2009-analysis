@@ -1,4 +1,4 @@
-# FC Barcelona 2009–10 Season Analysis ⚽
+# FC Barcelona 2009–10 Season Analysis
 
 This project analyzes FC Barcelona's 2009–10 season using Python and data analytics.
 

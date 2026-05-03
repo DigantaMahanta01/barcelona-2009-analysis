@@ -2,22 +2,22 @@
 
 This project analyzes FC Barcelona's 2009–10 season using Python and data analytics.
 
-## 🔧 Tools Used
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
 
-## 📊 Key Insights
+## Key Insights
 - Dominant attacking performance
 - Strong defensive record
 - High consistency across matches
 
-## ⭐ Focus Players
+## Focus Players
 - Lionel Messi
 - Xavi Hernández
 - Andrés Iniesta
 
-## 🚀 Goal
+## Goal
 To explore how data analytics can be applied in football performance analysis.
 
 ---
